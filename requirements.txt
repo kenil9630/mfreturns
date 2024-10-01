@@ -1,5 +1,5 @@
 streamlit
 pandas
 numpy
-sckit-learn
+scikit-learn
 plotly
